@@ -2,7 +2,7 @@
 
 ---
 
-The repository is a collection of Python scripts, experiments, exercises, and small projects I've built while learning and exploring the language.
+This repository is a collection of Python scripts, experiments, exercises, and small projects I've built while learning and exploring the language.
 
 The goal of this repo is to document my progress, practice new concepts, and create a space where I can experiment with ideas.
 
@@ -29,26 +29,26 @@ Each folder or file focuses on a small self-contained idea or concept.
 
 ## 📂 Repository Structure
 
-python-exercises/
+python-exercises/  
 │
-├── mini_projects/
-│   ├── contact_book/
-│   │   └── main.py
-│   │   └──contact_data.py
-│   │   └── widgets.py
+├── mini_projects/  
+│   ├── contact_book/  
+│   │   └── main.py  
+│   │   └──contact_data.py  
+│   │   └── widgets.py  
 │ 
-│   ├── todo_app/
-│   │   └── todo.py
-│   │   └──dabase.py
+│   ├── todo_app/  
+│   │   └── todo.py  
+│   │   └──dabase.py  
 │ 
-├── api/
-│   └── cat_facts.py
-│   └── dog_images.py
+├── api/  
+│   └── cat_facts.py  
+│   └── dog_images.py  
 │
-├── algorithms/
-│   └── 
+├── algorithms/  
+│   └──   
 │
-└── README.md
+└── README.md  
 
 
 ---
