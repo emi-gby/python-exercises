@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect('basic_python/ideas_done/todo_app/todo_list.db')
+conn = sqlite3.connect('todo_list.db')
 
 cursor = conn.cursor()
 

@@ -32,21 +32,21 @@ Each folder or file focuses on a small self-contained idea or concept.
 python-exercises/  
 │
 ├── mini_projects/  
-│   ├── contact_book/  
-│   │   └── main.py  
-│   │   └──contact_data.py  
-│   │   └── widgets.py  
-│ 
-│   ├── todo_app/  
-│   │   └── todo.py  
-│   │   └──dabase.py  
+    ├── contact_book/  
+    │   └── main.py  
+    │   └──contact_data.py  
+    │   └── widgets.py  
+    │ 
+    ├── todo_app/  
+    │   └── todo.py  
+    │   └──dabase.py  
 │ 
 ├── api/  
-│   └── cat_facts.py  
-│   └── dog_images.py  
+    └── cat_facts.py  
+    └── dog_images.py  
 │
 ├── algorithms/  
-│   └──   
+    └──   
 │
 └── README.md  
 
