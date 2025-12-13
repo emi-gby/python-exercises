@@ -18,7 +18,7 @@ This repository includes a variety of Python content, such as:
     
 - **API experiments**
     
-- **File-handling examples**
+- **Concepts**
     
 - **Algorithm exercises**
     
@@ -30,26 +30,20 @@ Each folder or file focuses on a small self-contained idea or concept.
 ## 📂 Repository Structure
 
 python-exercises/  
-│
 ├── mini_projects/  
-    ├── contact_book/  
-    │   └── main.py  
-    │   └──contact_data.py  
-    │   └── widgets.py  
-    │ 
-    ├── todo_app/  
-    │   └── todo.py  
-    │   └──dabase.py  
-│ 
+│ └── contact_book/  
+	│ └── main.py  
+	│ └── contact_data.py  
+	│ └── widgets.py  
+│ └── todo_app/  
+	│ └── todo.py  
+	│ └── dabase.py  
 ├── api/  
-    └── cat_facts.py  
-    └── dog_images.py  
-│
-├── algorithms/  
-    └──   
-│
-└── README.md  
-
+│ └── cat_facts.py  
+│ └── dog_images.py  
+├── concepts/  
+│ └── comprehension/  
+└── README.md 
 
 ---
 
@@ -69,7 +63,7 @@ python-exercises/
     
     `git clone https://github.com/emi-gby/python-exercises.git`
     
-2. Navigate into the folder:
+2. Navigate into any folder:
     
     `cd python-exercises\api`
     
